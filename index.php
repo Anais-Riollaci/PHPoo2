@@ -121,3 +121,7 @@ var_dump($lui);
 // retourne la classe à laquelle appartient un objet
 echo get_class($moi); // Utilisateur
 
+// pour tester le versionning
+// 2eme commentaire
+//autre test
+echo get_class($toi);
