@@ -1,0 +1,33 @@
+[2020-03-23 15:07:36] C:\xampp\htdocs\PHPoo\exception\User.php line 28Le prénom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(24): User->setFirstname('123')
+#1 {main}
+[2020-03-23 15:20:23] C:\xampp\htdocs\PHPoo\exception\User.php line 38 Le prénom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(24): User->setFirstname('123')
+#1 {main}
+[2020-03-23 15:20:23] C:\xampp\htdocs\PHPoo\exception\User.php line 62 Le nom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(34): User->setLastname('123')
+#1 {main}
+[2020-03-23 15:20:23] C:\xampp\htdocs\PHPoo\exception\User.php line 62 Le nom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(44): User->setLastname('123')
+#1 {main}
+[2020-03-23 15:22:47] C:\xampp\htdocs\PHPoo\exception\User.php line 38 Le prénom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(24): User->setFirstname('123')
+#1 {main}
+[2020-03-23 15:22:47] C:\xampp\htdocs\PHPoo\exception\User.php line 62 Le nom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(34): User->setLastname('123')
+#1 {main}
+[2020-03-23 15:22:47] C:\xampp\htdocs\PHPoo\exception\User.php line 62 Le nom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(44): User->setLastname('123')
+#1 {main}
+[2020-03-23 15:23:42] C:\xampp\htdocs\PHPoo\exception\User.php line 38 Le prénom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(24): User->setFirstname('123')
+#1 {main}
+[2020-03-23 15:23:42] C:\xampp\htdocs\PHPoo\exception\User.php line 62 Le nom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(34): User->setLastname('123')
+#1 {main}
+[2020-03-23 15:23:42] C:\xampp\htdocs\PHPoo\exception\User.php line 62 Le nom ne doit pas être un nombre
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(44): User->setLastname('123')
+#1 {main}
+[2020-03-23 15:23:42] C:\xampp\htdocs\PHPoo\exception\User.php line 82 Argument 1 passed to User::setBirthdate() must be an instance of DateTime, string given, called in C:\xampp\htdocs\PHPoo\exception\index.php on line 57
+#0 C:\xampp\htdocs\PHPoo\exception\index.php(57): User->setBirthdate('2000-01-01')
+#1 {main}
