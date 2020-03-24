@@ -119,4 +119,5 @@ $lui->nomComplet = 'Julien Anest';
 var_dump($lui);
 
 // retourne la classe à laquelle appartient un objet
-echo get_class($toi); // Utilisateur
+echo get_class($moi); // Utilisateur
+
